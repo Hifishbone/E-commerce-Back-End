@@ -20,6 +20,11 @@ Use the schema.sql file in the db folder to create your database using MySQL she
 source db/schema.sql
 ```
 
+## [OPTIONAL] Seed with Test Data
+```bash
+npm run seed
+```
+
 ## Start the Server
 ```bash
 npm start
