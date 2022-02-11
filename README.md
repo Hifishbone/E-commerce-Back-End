@@ -1,6 +1,9 @@
 # E-commerce Back End
 A back end for an e-commerce website that uses the latest technologies
 
+## Walkthrough Video
+https://drive.google.com/file/d/1nH7X0WTsZ3oTRpiVPcUK1iWBKcTCzLHU/view
+
 ## Install Dependencies
 ```bash
 npm install
